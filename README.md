@@ -4,6 +4,7 @@ Softreck's vision for 2040
 
 + 6g
 + society 5.0
++ robots regsitration service
 
 
 --
