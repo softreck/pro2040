@@ -5,7 +5,8 @@
 
 + 6g
 + society 5.0
-+ robots regsitration service
++ robots regstration service
++ security robots on the streets
 
 
 
