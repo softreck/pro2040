@@ -24,7 +24,7 @@
 
 ## Substantively supported by: 
 
-+ [#saasisking SaaS is the King .com](https://www.saasisking.com/)
++ [#saasisking - SaaS is the King .com](https://www.saasisking.com/)
 + [hyper Modularity .com](https://www.hypermodularity.com/)
 
 
